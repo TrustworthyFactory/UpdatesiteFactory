@@ -1,0 +1,21 @@
+D:\works\security2011\optet\WP4\workspace\com.thalesgroup.optet.updatesite>keyt
+ol -genkey  -keystore cacerts -alias thalesgroup -storepass password -keyalg DS
+ -sigalg SHA1withDSA
+Quels sont vos nom et prÚnom ?
+  [Unknown]:
+Quel est le nom de votre unitÚ organisationnelle ?
+  [Unknown]:  optet
+Quel est le nom de votre entreprise ?
+  [Unknown]:  thalesgroup
+Quel est le nom de votre ville de rÚsidence ?
+  [Unknown]:
+Quel est le nom de votre Útat ou province ?
+  [Unknown]:
+Quel est le code pays Ó deux lettres pour cette unitÚ ?
+  [Unknown]:
+Est-ce CN=Unknown, OU=optet, O=thalesgroup, L=Unknown, ST=Unknown, C=Unknown ?
+  [non]:  oui
+
+Entrez le mot de passe de la clÚ pour <thalesgroup>
+        (appuyez sur EntrÚe s'il s'agit du mot de passe du fichier de clÚs) :
+Ressaisissez le nouveau mot de passe :
