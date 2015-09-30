@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/com.thalesgroup.optet.features_1.0.0.201509300956.jar" id="com.thalesgroup.optet.features" version="1.0.0.201509300956">
+   <feature url="features/com.thalesgroup.optet.features_1.0.0.201509301039.jar" id="com.thalesgroup.optet.features" version="1.0.0.201509301039">
       <category name="Optet"/>
    </feature>
    <category-def name="Optet" label="Optet"/>
